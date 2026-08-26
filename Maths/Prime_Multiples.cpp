@@ -1,0 +1,1 @@
+//multiples of only those k primes now till 1e18 no div by ai start from 1 to n and cnt divisors->
