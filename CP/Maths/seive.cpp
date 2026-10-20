@@ -13,5 +13,6 @@ int main(){
     for(int i=1;i<=100000;i++){
         if(seive[i])cnt++;
     }
-    cout<<cnt<<endl;
+    // cout<<cnt<<endl;
+    
 }
